@@ -42,5 +42,5 @@ def openBox(boxNumber, boxes, boxesAlreadyOpened):
     if not boxesAlreadyOpened[boxNumber]:
         boxesAlreadyOpened[boxNumber] = True
         for key in boxes[boxNumber]:
-            if key<len(boxes):
+            if key < len(boxes):
                 openBox(key, boxes, boxesAlreadyOpened)
