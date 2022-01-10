@@ -18,14 +18,14 @@
 
 ## Files in this Folder:
 
-* <a href='0-sandpiles.c'><img src="https://raw.githubusercontent.com/jepez90/jepez90.github.io/master/img/Readme_media/logoC.svg" alt="Logo C" height="20" /> **0-sandpiles.c**</a><br />
+* <a href="0-sandpiles.c"><img src="https://raw.githubusercontent.com/jepez90/jepez90.github.io/master/img/Readme_media/logoC.svg" alt="Logo C" height="20" /> **0-sandpiles.c**</a><br />
 Functions that computes the sum of two sandpiles
 You can assume that both *grid1* and *grid2* are individually ***stable***
 A sandpile is considered ***stable*** when none of its cells contains more than 3 grains
 When your function is done, *grid1* must be ***stable***
 ***grid1*** must be printed before each toppling round, only if it is unstable
 
-* <a href='sandpiles.h'><img src="https://raw.githubusercontent.com/jepez90/jepez90.github.io/master/img/Readme_media/logo_code_file.svg" alt="Logo Code" height="20" /> **sandpiles.h**</a><br />
+* <a href="sandpiles.h"><img src="https://raw.githubusercontent.com/jepez90/jepez90.github.io/master/img/Readme_media/logo_code_file.svg" alt="Logo Code" height="20" /> **sandpiles.h**</a><br />
 header files for the task
 
 
